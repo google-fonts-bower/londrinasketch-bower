@@ -1,0 +1,17 @@
+{
+    "name": "londrinasketch-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Marcelo Magalh\u00e3es"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/londrinasketch-bower.git"
+    },
+    "description": "Londrina Sketch font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
